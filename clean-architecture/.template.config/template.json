@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Serris Filippos",
+  "classifications": ["Web", "Api", "Clean Architecture"],
+  "identity": "CleanArchitecture.WebApi",
+  "name": "Clean Architecture Web API",
+  "shortName": "clean-arch",
+  "sourceName": "CleanArchitecture.WebApi",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

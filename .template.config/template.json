@@ -5,7 +5,7 @@
   "identity": "CleanArchitecture.WebApi",
   "name": "Clean Architecture Web API",
   "shortName": "clean-arch",
-  "sourceName": "CleanArchitecture.WebApi",
+  "sourceName": "MyApp",
   "preferNameDirectory": true,
   "tags": {
     "language": "C#",

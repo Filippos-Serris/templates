@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Serris Filippos",
+  "classifications": ["Web", "Full Stack", "ASP.NET Core", "React"],
+  "identity": "CleanArchitecture.WebApiFullStack.React",
+  "name": "ASP.NET Core React Full Stack Application",
+  "shortName": "full-stack",
+  "sourceName": "MyApp",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#,ts",
+    "type": "project"
+  }
+}
